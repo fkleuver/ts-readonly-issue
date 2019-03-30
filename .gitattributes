@@ -1,0 +1,9 @@
+* text eol=lf
+
+*.js       text
+*.json     text
+*.ts       text
+
+.editorconfig  text
+.gitattributes text
+.gitconfig     text

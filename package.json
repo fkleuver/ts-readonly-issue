@@ -1,0 +1,14 @@
+{
+  "name": "aurelia",
+  "private": true,
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "lerna bootstrap --ci",
+    "build": "lerna run build"
+  },
+  "devDependencies": {
+    "lerna": "^3.13.1",
+    "typescript": "^3.4.1"
+  }
+}
